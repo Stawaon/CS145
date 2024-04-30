@@ -1,5 +1,11 @@
 // Exercise 10.13: PayrollSystemTest.java
 // Employee hierarchy test program.
+// Noah Watson
+// CS 145
+// 4/30/2024
+// Assignment: Add get methods to Data.java class. Create array of Employee variables to stores references to previous employee objects. 
+// In a loop, calculate the payroll for each Employee polymorphically, and add a $100 bonus to the employee's payroll amount if current month includes their birthday.
+
 import java.util.Scanner; // program uses Scanner to obtain user input
 
 public class PayrollSystemTest {
