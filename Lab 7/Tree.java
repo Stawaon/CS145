@@ -3,7 +3,7 @@
 // Noah Watson
 // CS 145
 // 6/4/2024
-
+// Purpose: Add Search methods that search in pre-order, in-order, and post-order. As well as adding a method to remove nodes from tree.
 // class TreeNode definition
 class TreeNode<T extends Comparable<T>> {
    // package access members
