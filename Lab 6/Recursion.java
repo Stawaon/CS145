@@ -1,3 +1,8 @@
+// Noah Watson
+// CS 145
+// 5/21/24
+// Purpose: Understand  recursion in java. Explain funtionality or mystery method. Fixed sum method. Print a pascal's triangle with recursive methods.
+
 public class Recursion {
     
     public Recursion() {
