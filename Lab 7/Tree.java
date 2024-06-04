@@ -1,5 +1,8 @@
 // Exercise 21.25: Tree.java
 // TreeNode and Tree class declarations for a binary search tree.
+// Noah Watson
+// CS 145
+// 6/4/2024
 
 // class TreeNode definition
 class TreeNode<T extends Comparable<T>> {
